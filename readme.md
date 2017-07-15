@@ -3,7 +3,7 @@
 ## Requirements
 
 - PHP 7.0
-- MySQL 5.7
+- MongoDB 3.2
 - Node.js 7.6
 - NPM 4.6
 - Composer
